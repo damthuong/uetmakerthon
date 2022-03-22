@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818749520150",
+    "project_id": "module-login-42729",
+    "storage_bucket": "module-login-42729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818749520150:android:b80d7eeab2c867d830b837",
+        "android_client_info": {
+          "package_name": "com.example.customnavigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818749520150-6k758b7alb411hnttj9k40q9i09b6ibk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBltHTdo9ot3jC8bf-_oFWomowszpFr5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818749520150-6k758b7alb411hnttj9k40q9i09b6ibk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Bluetooth Alert</string>
+
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_scan">Phát hiện tiếp xúc</string>
+    <string name="nav_history">Lịch sử tiếp xúc</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_my_profile">Tài khoản</string>
+    <string name="nav_change_password">Thay đổi mật khẩu</string>
+    <string name="nav_sign_out">Đăng xuất</string>
+
+    <string name="navigation_drawer_open">Mở menu</string>
+    <string name="avigation_drawer_close">Đóng menu</string>
+
+    <string name="ok">OK</string>
+    <string name="location_access_required">Yêu cầu quyền truy cập vị trí.</string>
+    <string name="location_unavailable"><center><b>Chưa cho phép hệ thống truy cập vị trí.</b>\nHệ thống không thể hoạt động đúng.</center></string>
+    <string name="location_permission_available"><b>Đã truy cập được vị trí.</b>\nHệ thống đang quét thiết bị xung quanh…</string>
+    <string name="thong_tin">Thông tin</string>
+    <string name="scan_bluetooth">Quét Bluetooth</string>
+    <string name="on_off">ON/OFF</string>
+    <string name="lich_su_tiep_xuc">Lịch sử tiếp xúc</string>
+    <string name="back_menu">Quay lại</string>
+    <string name="thiet_bi_xung_quanh" />
+    <string name="bluetooth">Bluetooth</string>
+    <string name="thong_dep">khẩu trang, khử khuẩn, khoảng cách, không tụ tập và khai báo y tế.</string>
+
+</resources>

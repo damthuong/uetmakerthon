@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/drawable-v24/ic_action_off.xml" value="0.2703125" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/drawable-v24/ic_action_scan.xml" value="0.21041666666666667" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/drawable/ic_favorite.xml" value="0.2703125" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/activity_main.xml" value="0.23410404624277456" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/activity_scan.xml" value="0.24107142857142858" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/activity_sign_in.xml" value="0.3807829181494662" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/activity_splash.xml" value="0.15520833333333334" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/fragment_change_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/fragment_history.xml" value="0.1" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/fragment_home.xml" value="0.22361359570661896" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/fragment_my_profile.xml" value="0.17222222222222222" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/fragment_support.xml" value="0.25416666666666665" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/layout_dialog_forgot_password.xml" value="0.21574074074074073" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/layout/layout_header_nav.xml" value="0.16296296296296298" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+        <entry key="..\:/tai_lieu/dai_hoc/nam3/mophong/adrstudio/Firebase/CustomNavigationDrawer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
